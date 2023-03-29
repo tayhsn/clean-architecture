@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint:fix": "eslint --fix --ext .js, .ts ."
+    "lint:fix": "eslint --fix --ext .js, .ts .",
+    "test": "jest"
   },
   "keywords": [],
   "author": "Tayanne Novais",
